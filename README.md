@@ -1,22 +1,28 @@
-#
+# Work Day Scheduler
 
-## Instructions:
+A planner app for creating business day schedule
 
-## Details:
+## Function:
+Scroll down to interact with the business-hour calendar
+Blocks are colored according to past-present, or future
+Clicking on time blocks allows for entering events
+You can save the blocks to local storage with the buttons to their right
 
 ## Tools Used:
 
 - VSCode
 - JavaScript
 - Node.JS
+- jQuery
+- moment.js
 
 ## Website:
 
-https://raymondcerneytech.github.io/ /
+https://raymondcerneytech.github.io/Work-Day-Scheduler/
 
 ### Preview:
 
-![Picture of _____________](./assets/images/ .PNG)
+![Picture of Work Day Scheduler](./assets/images/workDayScheduler.PNG)
 
 ### Author:
 
